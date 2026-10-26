@@ -1,11 +1,11 @@
 | `名称` | `类型` | `来源` | `COMMIT-ID` |
 | --- | --- | --- | --- |
 | `immortalwrt` | `code` | `immortalwrt` | `e695009c15c623f4f6a83376b505faaf7a4ae5b5` |
-| `ponwrt` | `code` | `ponwrt` | `8ef1bd9d5896379849f1c19e2e708aaf563fadb0` |
+| `ponwrt` | `code` | `ponwrt` | `03c134544714617e196dd399c85ebb90fb6eefa1` |
 | `packages` | `feed` | `immortalwrt` | `72c7391fb2d04080afd0bfe919605749f81eb747` |
 | `luci` | `feed` | `immortalwrt` | `05c955f0aca2f5e8de1c126b0ec9e9e677e83b3f` |
 | `routing` | `feed` | `openwrt` | `4b9891b9136259f93294a424507ed24c5e8c1cbd` |
-| `telephony` | `feed` | `openwrt` | `5d68d53c160a325ea9d03fce393e051573bcc736` |
-| `video` | `feed` | `openwrt` | `6917907d4d6c670cf85be525d23216595655061d` |
-| `pon_drivers` | `feed` | `ponwrt` | `e5194d2dfd169eef8f4a944fdc3f929e0287b680` |
+| `telephony` | `feed` | `openwrt` | `67281dfcb4f2beee48af0cbf689a71d96f3ce339` |
+| `video` | `feed` | `openwrt` | `bea0fb29f9573ab4c9bd77a9a495127958992d53` |
+| `pon_drivers` | `feed` | `ponwrt` | `2f248394e62648800ef8d03ded623eb6d6059597` |
 | `pon_userspace` | `feed` | `ponwrt` | `cce9d756742487b378749c606b30e13ee9b0f093` |
