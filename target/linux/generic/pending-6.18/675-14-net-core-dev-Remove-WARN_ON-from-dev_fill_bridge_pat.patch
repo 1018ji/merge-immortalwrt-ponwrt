@@ -14,7 +14,7 @@ will simply skip offloading this flow, which is the correct behavior.
 
 Signed-off-by: Bohdan Chubuk <chbgdn@gmail.com>
 ---
- net/core/dev.c | 2 +-
+ net/core/dev.c |    2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 --- a/net/core/dev.c
